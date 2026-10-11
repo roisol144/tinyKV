@@ -56,3 +56,7 @@ tests/            unit tests (dependency-free harness)
 bench/            benchmark driver
 docs/             design notes and results
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
